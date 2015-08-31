@@ -1,0 +1,5 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\Programming_CSharp\Programming_CSharp\bin\Debug\Programming_CSharp.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\Programming_CSharp\Programming_CSharp\bin\Debug\Programming_CSharp.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\Programming_CSharp\Programming_CSharp\obj\Debug\Programming_CSharp.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\Programming_CSharp\Programming_CSharp\obj\Debug\Programming_CSharp.exe
+c:\users\ywang23\documents\visual studio 2013\Projects\Programming_CSharp\Programming_CSharp\obj\Debug\Programming_CSharp.pdb

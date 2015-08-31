@@ -1,0 +1,6 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Dorknozzle\Dorknozzle\obj\Debug\Dorknozzle.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Dorknozzle\Dorknozzle\bin\Dorknozzle.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Dorknozzle\Dorknozzle\bin\Dorknozzle.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Dorknozzle\Dorknozzle\bin\Dorknozzle.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Dorknozzle\Dorknozzle\obj\Debug\Dorknozzle.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\DorknozzleProject\Dorknozzle\Dorknozzle\obj\Debug\Dorknozzle.pdb

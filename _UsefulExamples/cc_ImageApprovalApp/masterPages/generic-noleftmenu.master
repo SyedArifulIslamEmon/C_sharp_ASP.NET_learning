@@ -1,0 +1,14 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="generic-noleftmenu.master.cs" Inherits="masterPages_generic_noleftmenu" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="headBlock" runat="server" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ContentPlaceHolder id="mainBlock" runat="server" />
+    </form>
+</body>
+</html>

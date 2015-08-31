@@ -1,0 +1,12 @@
+c:\users\ywang23\documents\visual studio 2013\Projects\CheckOtherTextBox\CheckOtherTextBox\bin\CheckOtherTextBox.dll.config
+c:\users\ywang23\documents\visual studio 2013\Projects\CheckOtherTextBox\CheckOtherTextBox\bin\CheckOtherTextBox.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\CheckOtherTextBox\CheckOtherTextBox\bin\CheckOtherTextBox.pdb
+c:\users\ywang23\documents\visual studio 2013\Projects\CheckOtherTextBox\CheckOtherTextBox\obj\Debug\CheckOtherTextBox.csprojResolveAssemblyReference.cache
+c:\users\ywang23\documents\visual studio 2013\Projects\CheckOtherTextBox\CheckOtherTextBox\obj\Debug\CheckOtherTextBox.dll
+c:\users\ywang23\documents\visual studio 2013\Projects\CheckOtherTextBox\CheckOtherTextBox\obj\Debug\CheckOtherTextBox.pdb
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\UsefulExamples\CheckOtherTextBox\CheckOtherTextBox\bin\CheckOtherTextBox.dll.config
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\UsefulExamples\CheckOtherTextBox\CheckOtherTextBox\bin\CheckOtherTextBox.dll
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\UsefulExamples\CheckOtherTextBox\CheckOtherTextBox\bin\CheckOtherTextBox.pdb
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\UsefulExamples\CheckOtherTextBox\CheckOtherTextBox\obj\Debug\CheckOtherTextBox.csprojResolveAssemblyReference.cache
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\UsefulExamples\CheckOtherTextBox\CheckOtherTextBox\obj\Debug\CheckOtherTextBox.dll
+C:\Users\ywang23\Documents\Visual Studio 2013\Projects\UsefulExamples\CheckOtherTextBox\CheckOtherTextBox\obj\Debug\CheckOtherTextBox.pdb

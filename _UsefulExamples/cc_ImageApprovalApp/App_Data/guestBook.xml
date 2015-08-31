@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<guestBook>
+  <entry>
+    <firstName>zzz</firstName>
+    <lastName>aaa</lastName>
+    <imgName>515c1a2d-f1f9-4f02-99e3-ffac3e9575c5.jpg</imgName>
+    <approved>1</approved>
+  </entry>
+  <entry>
+    <firstName>aaa</firstName>
+    <lastName>aaa</lastName>
+    <imgName>553d635c-3d23-4ca2-b663-ede156b98aac.jpg</imgName>
+    <approved>1</approved>
+  </entry>
+</guestBook>
