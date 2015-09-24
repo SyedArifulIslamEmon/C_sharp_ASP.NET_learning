@@ -56,6 +56,7 @@
     <Content Include="AddressBook.aspx" />
     <Content Include="AdminTools.aspx" />
     <Content Include="App_Themes\Blue\Dorknozzle.css" />
+    <Content Include="Departments.aspx" />
     <Content Include="Global.asax" />
     <Content Include="HelpDesk.aspx" />
     <Content Include="Images\book_closed.gif" />
@@ -84,6 +85,13 @@
     </Compile>
     <Compile Include="AdminTools.aspx.designer.cs">
       <DependentUpon>AdminTools.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Departments.aspx.cs">
+      <DependentUpon>Departments.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Departments.aspx.designer.cs">
+      <DependentUpon>Departments.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
